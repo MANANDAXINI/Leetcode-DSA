@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/MANANDAXINI/Leetcode-DSA/tree/master/0322-coin-change) |
+| [1046-max-consecutive-ones-iii](https://github.com/MANANDAXINI/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/MANANDAXINI/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/MANANDAXINI/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/MANANDAXINI/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/MANANDAXINI/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
