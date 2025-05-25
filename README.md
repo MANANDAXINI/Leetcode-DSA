@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/MANANDAXINI/Leetcode-DSA/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/MANANDAXINI/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MANANDAXINI/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/MANANDAXINI/Leetcode-DSA/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/MANANDAXINI/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
